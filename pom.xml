@@ -4,7 +4,7 @@
 	<groupId>test</groupId>
 	<artifactId>test</artifactId>
 	<packaging>war</packaging>
-	<name>eCertificate</name>
+	<name>test</name>
 	<version>1.0</version>
 	<description>application</description>
 
