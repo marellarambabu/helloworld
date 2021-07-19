@@ -5,7 +5,7 @@
 	<artifactId>test</artifactId>
 	<packaging>war</packaging>
 	<name>eCertificate</name>
-	
+	<version></version>
 	<description>application</description>
 
 	<!-- Organization -->
